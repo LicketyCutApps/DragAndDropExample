@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Drag and Drop Example</string>
+
+    <string name="action_sort_by_modified">Sort by Date Modified</string>
+    <string name="action_sort_by_name">Sort by File Name</string>
+
+    <string name="action_delete_all_reset">Delete All and Reset</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="action_move_file_root">Move up to root folder</string>
+    <string name="action_move_file_up">Move up one folder</string>
+    <string name="action_delete_file">Delete File</string>
+
+    <string name="folder_tag">This is a folder</string>
+</resources>
